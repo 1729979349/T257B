@@ -1,1 +1,1 @@
-select  * from t_user
+delete select  * from t_user
