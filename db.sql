@@ -1,1 +1,1 @@
-select  * from t_user
+update select  * from t_user
